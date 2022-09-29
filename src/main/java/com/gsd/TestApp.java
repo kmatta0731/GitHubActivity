@@ -7,6 +7,7 @@ public class TestApp {
         System.out.println("SE475/371 GSD Course \n");
 
         //TODO Print your name like this "Name: Vahid Alizadeh"
+        system.out.println("Name: Kathie MAtta");
 
     }
 }
